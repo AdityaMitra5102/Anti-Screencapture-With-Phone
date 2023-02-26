@@ -1,0 +1,3 @@
+pyautogui
+imageai
+opencv-python
